@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-tictactoe/static/css/main.221c6bd1.css",
+    "main.js": "/react-tictactoe/static/js/main.399ee429.js",
+    "static/media/blue-background.jpg": "/react-tictactoe/static/media/blue-background.09d20b2ab8b6bf481af0.jpg",
+    "index.html": "/react-tictactoe/index.html",
+    "main.221c6bd1.css.map": "/react-tictactoe/static/css/main.221c6bd1.css.map",
+    "main.399ee429.js.map": "/react-tictactoe/static/js/main.399ee429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221c6bd1.css",
+    "static/js/main.399ee429.js"
+  ]
+}
